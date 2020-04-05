@@ -12,5 +12,10 @@
             <Font size="25.0" />
          </font>
       </Label>
+      <Label text="Razy Elfar">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
    </children>
 </VBox>
